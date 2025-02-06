@@ -5,7 +5,7 @@ If you are using Linux, install heimdall from the command prompt.
 
 If you are using Windows you will need the phone's AP, having to look for the Firmware compatible with your device, which is not that difficult to find.
 
-What I'm going to teach will be with Haimdall
+What I'm going to teach will be with Heimdall
 
 step 1:
 
@@ -21,7 +21,7 @@ with your device is at the bootload screen, connect it back to the computer and 
 
 To make sure your phone is connected:
 
-heimdall detection
+heimdall detect
 
 To add the boot modified by magisk you must copy the address where your boot is located:
 
@@ -36,5 +36,3 @@ heimdall flash --RECOVERY /example/recovery.img
 When executed, you will have unlocked your bootloader and you will be able to see it if you try to turn off the cell phone with end call and turn it on with volume
 
 the apk apps is if you don't have playstore, or want more open source apps. Good luck!!
-
-Ícone "Verificada pela comunidade"
